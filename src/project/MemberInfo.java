@@ -7,10 +7,10 @@ import java.util.Scanner;
 
 public class MemberInfo {
    //필드 선언
-   private String id, password;
-   private double w;
-   private double h;
-   static boolean loginFlag;
+   private String id, password;		//아이디 패스워드
+   private double w;				//체중
+   private double h;				//키
+   static boolean loginFlag;		//로그인 확인 변수
    
    
    Map<String, String> memberTable;     //Map 초기화

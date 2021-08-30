@@ -67,7 +67,7 @@ public class StandbyScreen extends JFrame {
 		panel.add(IDlabel);
 		panel.add(PWlabel);
 		panel.add(maintitle);
-		panel.add(IDfield);// button
+		panel.add(IDfield);// button	
 		panel.add(PWfield);
 		panel.add(join); 
 		panel.add(login);

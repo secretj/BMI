@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class MemberMain {
 	public static void main(String[] args)  {
-		//init() 초기화후 메모장 읽어오고 키값 비교.
+	
 		
 		Scanner sc = new Scanner(System.in);
 		//메소드가 들어있는 클래스 선언
